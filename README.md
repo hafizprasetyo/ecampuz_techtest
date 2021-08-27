@@ -1,1 +1,1 @@
-# ecampuz_techtest
+# eCampuz Technical Test
